@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FireShockPro
+- 👀 I’m interested in learning the basics before going to College.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything that will help me learn more about the way code projects are made.
+- 📫 How to reach me email me @ apjg7490@gmail.com
